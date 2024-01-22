@@ -1,0 +1,82 @@
+﻿body {
+    font-family: 'Jura', sans-serif;
+    background-color: #F6A2A2;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    padding: 60px;
+    color: white;
+    font-size: 20px;
+}
+
+.container{
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.itemContainer{
+    padding: 10px;
+    width: 680px;
+}
+
+.contentAboutMe{
+    display: flex;
+    gap: 55px;
+}
+
+.message{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    gap: 10px;
+}
+
+.nameMessage{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.nameCollection{
+    margin: auto auto;
+}
+
+.imageSolo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin-top: 25px;
+    position: relative;
+    left: 53px;
+}
+
+.imageCollection{
+    display: flex;
+}
+
+.contentTable table{
+    border: 1px solid white;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+.contentTable td, th{
+    padding: 10px 12px 10px 12px;
+    border: 1px solid white;
+}
+.contentTable thead th{
+    height: 62px;
+}
+.contentTable tbody td{
+    height: 38px;
+}
+
+#paddingZero{
+    padding: 0;
+    width: 700px;
+}
