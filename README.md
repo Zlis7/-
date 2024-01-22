@@ -3,4 +3,4 @@ https://www.figma.com/file/hsnQfNa6Zn09YK4VPpG5bP/Untitled?type=design&node-id=1
 # Site:
 https://zlis7.github.io/Practice/
 
-![alt text](https://github.com/Zlis7/Practice/blob/main/data/screenshotBorders.png?raw=true)
+![alt text](https://github.com/Zlis7/Practice/blob/main/data/screenshotBorders.png)
